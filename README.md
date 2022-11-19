@@ -1,2 +1,2 @@
 # Projects
-projects which I have been made during college time.
+Personal Projects which I have been made during college time.
